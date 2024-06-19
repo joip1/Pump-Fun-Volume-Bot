@@ -7,7 +7,7 @@ This bot buy and sell automatically on pump.fun and raydium.
 
 it can be used to be displayed on the main page of pump.fun
 If you have any question/problem, you can contact me on telegram : https://t.me/joip12
-## Demo 
+## Demo
   
 [![Demo](https://img.youtube.com/vi/KIq8JfL0Ws0/0.jpg)](https://www.youtube.com/watch?v=c6FyrAK1pP4)
 
@@ -30,7 +30,7 @@ For Windows : https://nodejs.org/dist/v22.2.0/node-v22.2.0-x64.msi
 
 For MacOS : https://nodejs.org/dist/v22.2.0/node-v22.2.0.pkg
 
-For Linux, execute in a terminal : 
+For Linux, execute in a terminal 
 
 ```
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
