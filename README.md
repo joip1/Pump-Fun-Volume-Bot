@@ -12,7 +12,7 @@ If you have any question/problem, you can contact me on telegram : https://t.me/
 [![Demo](https://img.youtube.com/vi/KIq8JfL0Ws0/0.jpg)](https://www.youtube.com/watch?v=c6FyrAK1pP4)
 
 
-## Download the bot
+## Download the bot 
 
 If you have git installed on your computer you can fetch the content of this repository with the command 
 
