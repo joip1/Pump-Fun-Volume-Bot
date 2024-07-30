@@ -54,7 +54,7 @@ node -v
 
 It should return the version of nodejs.
 
-## Dependency installation
+## Dependency installation 
 
 In a cmd.exe or a terminal, go to the folder of the pump-fun-bump-bot with the command :
 
